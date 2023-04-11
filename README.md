@@ -33,7 +33,7 @@ PRs are welcome!
 Currently the method runs on colab GPUs with around 8-9 GB VRAM on fp16.
 
 # To do:
-1.Restore default attention weights after each cones_nference
+1.Restore default attention weights after each cones_inference \n
 2.Get attention weights directly instead of looping over all Unet modules.
 
 
