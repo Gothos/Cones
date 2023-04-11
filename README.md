@@ -13,7 +13,7 @@ AFAIK the paper does not provide any threshold values, so this is up for experim
 Learning rate (rho) is set by default at 2e-5, which is apparently good for single subject learning.
 I have not been able to reproduce the paper, albeit I have only computed masks with around 50 runs through the dataset (The researchers use 1000). A few images from the training dataset (20 prior images from the class dog, and 5 images of a dog as the concept) are below:
 ## Class Images:
-(warning: the images are diffusion-generated)
+(warning: the images are diffusion-generated) \n
 ![4 (1)](https://user-images.githubusercontent.com/95531133/231116615-4f2750b2-3b8f-4e49-b115-03882af1b3a0.jpg)
 ![0 (1)](https://user-images.githubusercontent.com/95531133/231116921-40212af1-164b-402a-8c91-dbee8aedc084.jpg)
 ![7](https://user-images.githubusercontent.com/95531133/231116948-bac2e8be-96db-417f-b9ac-a43dbedf532a.jpg)
