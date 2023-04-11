@@ -16,9 +16,11 @@ I have not been able to reproduce the paper, albeit I have only computed masks w
 ![4 (1)](https://user-images.githubusercontent.com/95531133/231116615-4f2750b2-3b8f-4e49-b115-03882af1b3a0.jpg)
 ![0 (1)](https://user-images.githubusercontent.com/95531133/231116921-40212af1-164b-402a-8c91-dbee8aedc084.jpg)
 ![7](https://user-images.githubusercontent.com/95531133/231116948-bac2e8be-96db-417f-b9ac-a43dbedf532a.jpg)
+
 ## Concept:
 ![0](https://user-images.githubusercontent.com/95531133/231117099-63a2113d-8889-4871-b743-d95d80f6a97a.jpg)
 ![2](https://user-images.githubusercontent.com/95531133/231117121-36fc1854-3d7a-4e28-b496-c5a19b43b4fd.jpg)
+
 Here are a few generated images:
 ## Generated (30 runs, I think):
 ![image](https://user-images.githubusercontent.com/95531133/231117401-619a9dba-7da0-4e0a-a2d8-2400a0b95c5a.png)
