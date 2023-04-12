@@ -25,7 +25,7 @@ Here are a few generated images:
 ## Generated (30 runs, I think):
 ![image](https://user-images.githubusercontent.com/95531133/231117401-619a9dba-7da0-4e0a-a2d8-2400a0b95c5a.png)
 ![image](https://user-images.githubusercontent.com/95531133/231117422-a2f25a3c-051f-4ef7-8ab0-171f919d8018.png)
-## 200 Runs (thresh 5e-2:
+## 200 Runs (thresh 5e-2):
 ![image](https://user-images.githubusercontent.com/95531133/231513315-34afb4c7-632e-4916-97c3-957f086ce8e1.png)
 ![image](https://user-images.githubusercontent.com/95531133/231513852-6a864dc7-b844-412c-8b64-ae6175a23ad8.png)
 
