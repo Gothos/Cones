@@ -36,7 +36,7 @@ Currently the method runs on colab GPUs with around 8-9 GB VRAM on fp16.
 
 # To do:
 1.Restore default attention weights after each cones_inference <br/>
-2.Get attention weights directly instead of looping over all Unet modules, to reduce time for mask computation. <br/>
+2.Get attention weights directly instead of looping over all Unet modules to find k/v layers, to reduce time for mask computation. <br/>
 3.Look into implementing algorithm A2 on the paper (faster).
 
 
